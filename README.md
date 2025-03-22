@@ -54,10 +54,11 @@ Here are some sample plots generated in the analysis:
 ![Annual Income](annual_income.png)  
 
 ### **3️⃣ Spending Score vs. Annual Income**  
-![Spending Score vs. Income](images/spending_vs_income.png)  
+![Spending Score vs. Income](spending_vs_income.png)  
 
 ### **4️⃣ K-Means Clustered Segments**  
-![K-Means Clusters](images/kmeans_clusters.png)  
+![K-Means Clusters](purchase behaviour.png)  
+
 
 ## 🛠️ Features  
 - Customer Segmentation using **K-Means Clustering**  
