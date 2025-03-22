@@ -58,7 +58,8 @@ Here are some sample plots generated in the analysis:
 ![Spending Score vs. Income](spending_vs_income.png)  
 
 ### **4️⃣ K-Means Clustered Segments**  
-![K-Means Clusters](purchase behaviour.png)  
+![K-Means Clusters](purchase_behaviour.png)  
+
 
 
 ## 🛠️ Features  
