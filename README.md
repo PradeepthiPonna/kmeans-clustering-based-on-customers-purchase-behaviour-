@@ -4,6 +4,7 @@
 This project involves customer segmentation using machine learning techniques on the **Mall Customers dataset**.  
 We apply **K-Means Clustering** and other algorithms to analyze customer purchasing behavior.
 
+
 ## 📂 Dataset  
 - **Mall_Customers.csv**: Contains customer data such as Age, Gender, Annual Income, and Spending Score.  
 
